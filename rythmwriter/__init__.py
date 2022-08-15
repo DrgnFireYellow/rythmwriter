@@ -25,4 +25,5 @@ class Rythm:
                 _sleep(1)
 
 if __name__ == "__main__":
-    Rythm(["quarter", "eighth", "rest", "quarter", "eighth"]).play()
+    rythm = Rythm(["quarter", "eighth", "rest", "quarter", "eighth"])
+    rythm.play()
