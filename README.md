@@ -1,10 +1,4 @@
 # rythmwriter
-
-[![PyPI - Version](https://img.shields.io/pypi/v/rythmwriter.svg)](https://pypi.org/project/rythmwriter)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/rythmwriter.svg)](https://pypi.org/project/rythmwriter)
-
------
-
 **Table of Contents**
 
 - [Installation](#installation)
